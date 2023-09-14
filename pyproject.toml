@@ -211,7 +211,7 @@ disable = [
   "W0401", # wildcard-import / ruff F403
   "W0406", # import-self / ruff PLW0406
   "W0410", # misplaced-future / ruff F404
-  "W0511", # fixme / ruff PLW0511
+  "W0511", # _fixme / ruff PLW0511
   "W0602", # global-variable-not-assigned / ruff PLW0602
   "W0603", # global-statement / ruff PLW0603
   "W0611", # unused-import / ruff F401
